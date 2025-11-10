@@ -15,6 +15,7 @@ int main() {
   }
   
   ecs_fini(world);
+  CloseWindow();
 
   return 0;
 }
